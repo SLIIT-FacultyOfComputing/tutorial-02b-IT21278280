@@ -20,6 +20,6 @@ int main()
     }
 
     std::cout <<"Factorial of "<< no << " is "<< fac;
-  
+    
     return 0;
 }
